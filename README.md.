@@ -1,0 +1,6 @@
+# Number Guessing Game  
+A Python-based number guessing game where players compete to be the closest to the average of all guesses.  
+- 1 real player and. 4 bots  
+- 10 rounds  
+- The closest guess to the average gets 10 points  
+- The final winner is announced at the end
